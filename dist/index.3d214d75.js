@@ -514,6 +514,10 @@ function hmrAcceptRun(bundle, id) {
 }
 
 },{}],"bB7Pu":[function(require,module,exports) {
+const app = document.getElementById('app');
+const headline = document.createElement('H1');
+headline.textContent = "This is hard!";
+app.appendChild(headline);
 
 },{}]},["iKiqL","bB7Pu"], "bB7Pu", "parcelRequire275a")
 
