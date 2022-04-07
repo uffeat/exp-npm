@@ -1,10 +1,11 @@
 {
   "name": "exp-npm",
+  "source": "index.html",
   "version": "1.0.0",
   "description": "",
-  "source": "index.html",
   "scripts": {
-    
+    "start": "parcel",
+    "build": "parcel build"
   },
   "repository": {
     "type": "git",
