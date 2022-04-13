@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/uffeat/exp-npm#readme",
   "dependencies": {
+    "@material/mwc-button": "^0.25.3",
+    "@webcomponents/webcomponentsjs": "^2.6.0",
     "date-fns": "^2.28.0"
   },
   "devDependencies": {
